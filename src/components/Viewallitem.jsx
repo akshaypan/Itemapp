@@ -1,9 +1,11 @@
 import React from 'react'
+import NavigatorBar from './NavigatorBar'
 
 const Viewallitem = () => {
   return (
     <div>
 
+<NavigatorBar/>
 <div className="container">
       <div className="row">
         <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -14,7 +16,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
@@ -26,7 +28,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
@@ -38,7 +40,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
@@ -50,7 +52,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
@@ -62,7 +64,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
@@ -74,7 +76,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
@@ -86,7 +88,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
@@ -98,7 +100,7 @@ const Viewallitem = () => {
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s" class="card-img-top" alt="..."/>
               <div class="card-body">
                 <h5 class="card-title">Plastic pot-white</h5>
-                <p class="card-text">Rs.</p>
+                <p class="card-text">Rs.90</p>
                 <a href="#" class="btn btn-primary">Buy now</a>
               </div>
             </div>
