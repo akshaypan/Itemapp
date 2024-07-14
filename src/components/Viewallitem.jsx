@@ -5,13 +5,13 @@ const Viewallitem = () => {
   var[data,changeData]=useState(
     [
       {"Item":"Plastic pot-white","price":9000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"},
-      {"Item":"bookshelf-white","price":1000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"},
-      {"Item":"shoerack-white","price":900,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"},
-      {"Item":"shoes-white","price":50,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"},
-      {"Item":"headphones-white","price":800,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"},
-      {"Item":"rug-white","price":9,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"},
-      {"Item":"lamp-white","price":999,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"},
-      {"Item":"quilt-white","price":900,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"}
+      {"Item":"bookshelf-white","price":1000,"image":"https://m.media-amazon.com/images/I/71Zn3M1bJBL._AC_UF894,1000_QL80_.jpg"},
+      {"Item":"shoerack-white","price":900,"image":"https://www.ikea.com/in/en/images/products/mackapaer-shoe-rack-white__0710716_pe727737_s5.jpg"},
+      {"Item":"shoes-white","price":50,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNxyewP33D-h9nBz9kLEJ9moeq6Fhk1qrlg&s"},
+      {"Item":"headphones-white","price":800,"image":"https://m.media-amazon.com/images/I/71+KbNZu0-L._AC_UF1000,1000_QL80_.jpg"},
+      {"Item":"rug-white","price":9,"image":"https://m.media-amazon.com/images/I/71FSPkmWCHS.jpg"},
+      {"Item":"lamp-white","price":999,"image":"https://www.ikea.com/in/en/images/products/blidvaeder-table-lamp-off-white-ceramic-beige__1059594_pe849715_s5.jpg"},
+      {"Item":"quilt-white","price":900,"image":"https://5.imimg.com/data5/SELLER/Default/2022/1/IR/DH/NA/92198193/duvet-500x500-500x500.jpg"}
     ]
   )
     var [data1,changeData]=useState(
