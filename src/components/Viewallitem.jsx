@@ -14,6 +14,13 @@ const Viewallitem = () => {
       {"Item":"quilt-white","price":900,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34s4rx0TuaK7ecE7-sP6frjPWdHL-CqjZvw&s"}
     ]
   )
+    var [data1,changeData]=useState(
+    [
+      {"SI":1,"Item":"Headphone","price":500},
+      {"SI":2,"Item":"Cup-Plastic","price":80},
+      {"SI":3,"Item":"Glasses","price":100}
+    ]
+   )
   return (
     <div>
 
@@ -38,7 +45,34 @@ const Viewallitem = () => {
             }
            )}
            
-           
+           <div className="row g-3">
+                <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+
+                <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">SI No.</th>
+      <th scope="col">Item</th>
+      <th scope="col">Item price</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+   {data1.map(
+    (value,i)=>{
+      return <tr>
+      <th scope="row">{value.SI}</th>
+      <td>{value.Item}</td>
+      <td>Rs.{value.price}</td>
+    </tr>
+    }
+   )}
+
+  </tbody>
+</table>
+
+                </div>
+            </div>
             
           </div>
         </div>
